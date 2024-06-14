@@ -1,2 +1,2 @@
-# prueba-tecnica-sumz
-Prueba técnica para cargo Científica de Datos en Sumz. Mayo de 2024
+# Retail Sales Forecasting
+EDA for product demand in a retail store, per product. And some exercises on demand forecasting with Machine Learning.
